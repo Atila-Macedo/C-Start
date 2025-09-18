@@ -1,1 +1,1 @@
-Meu primeiro commit do curso C# Start!!
+Primeiro commit do curso de C#
