@@ -80,6 +80,99 @@ Console.WriteLine($"Para um círculo com raio {raio}, a área é {Math.PI * Math
 /* double c = 25.0;
 Console.WriteLine($"{c}°C equivalem a {(c * 9/5) + 32}°F."); */
 
- #endregion
+#endregion
 
 #endregion
+
+//Aula 04 - Prática
+#region Exercícios
+
+#region Exercício 1
+/* Console.Write("Digite sua idade: ");
+int idade = int.Parse(Console.ReadLine()!);
+int proximoAno = idade + 1;
+Console.WriteLine($"No próximo ano você terá {proximoAno} anos."); */
+
+#endregion
+
+#region Exercício 2
+/* Console.Write("Digite o valor do desejado: ");
+float valor = float.Parse(Console.ReadLine()!);
+Console.Write("Digite a quantidade de parcelas desejada: ");
+double parcelas = double.Parse(Console.ReadLine()!);
+double valorParcela = (valor / parcelas) + (valor * 0.05);
+Console.WriteLine($"O valor de cada parcela será de R$ {valorParcela}."); */
+
+#endregion
+
+#region Exercício 3
+/* char letra;
+Console.Write("Digite uma letra: ");
+letra = Console.ReadKey().KeyChar;
+Console.WriteLine($"\nA letra digitada foi: {letra}."); */
+
+#endregion
+
+#region Exercício 4
+/* Console.Write("Digite seu nome: ");
+string nome = Console.ReadLine()!;
+Console.Write("Digite seu sobrenome: ");
+string sobrenome = Console.ReadLine()!;
+string nomeCompleto = nome + " " + sobrenome;
+Console.WriteLine($"Olá, {nomeCompleto}, seja bem-vindo!"); */
+
+#endregion
+
+#region Exercício 5
+
+/* Console.Write("Digite o primeiro valor decimal: ");
+decimal valor1 = decimal.Parse(Console.ReadLine()!);
+Console.Write("Digite o segundo valor decimal: ");
+decimal valor2 = decimal.Parse(Console.ReadLine()!);
+decimal resultado = valor1 * valor2;
+Console.WriteLine($"O resultado da multiplicação é: {resultado.ToString("F2")}."); */
+
+#endregion
+
+#region Exercício 6
+/* Console.Write("Digite o núemero para calcular o quadrado: ");
+int numero = int.Parse(Console.ReadLine()!);
+int quadrado = numero * numero;
+Console.WriteLine($"O quadrado de {numero} é {quadrado}."); */
+
+#endregion
+
+#region Exercício 7
+
+/* Console.Write("Digite a nota do primeiro semestre:  ");
+double nota1 = double.Parse(Console.ReadLine()!);
+Console.Write("Digite a nota do segundo semestre:  ");
+double nota2 = double.Parse(Console.ReadLine()!);
+double media = (nota1 + nota2) / 2;
+Console.WriteLine($"A média anual é {media}.");  */
+
+
+#endregion
+
+#region Exercício 8
+//Cenário: Copras acima de 50 ganham 10.5 de desconto
+/* const float valorDesconto = 10.5f;
+Console.Write("O valor da compra: ");
+float valorCompra = float.Parse(Console.ReadLine()!);
+float valorFinal = valorCompra - valorDesconto;
+Console.WriteLine($"O valor final da compra é {valorFinal}."); */
+
+#endregion
+
+#region Exercício 9
+
+Console.Write("Digite seu nome: ");
+string nome = Console.ReadLine()!;
+Console.Write("Digite sua idade: ");
+int idade = int.Parse(Console.ReadLine()!);
+Console.WriteLine($"Olá {nome}, você tem {idade} anos.");
+
+#endregion
+
+#endregion
+
