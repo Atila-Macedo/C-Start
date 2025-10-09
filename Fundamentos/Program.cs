@@ -93,6 +93,19 @@ int idade = int.Parse(Console.ReadLine()!);
 int proximoAno = idade + 1;
 Console.WriteLine($"No próximo ano você terá {proximoAno} anos."); */
 
+//ou
+/* int primeiro_numero, segundo_numero;
+//Entrada de dados
+Console.Write("Digite um número inteiro: ");
+primeiro_numero = int.Parse(Console.ReadLine()!);
+
+Console.Write("Digite o segundo número inteiro: ");
+segundo_numero = int.Parse(Console.ReadLine()!);
+//Processamento
+int soma = primeiro_numero + segundo_numero;
+//Saída de dados
+Console.WriteLine($"A soma entre {primeiro_numero} e {segundo_numero} é igual a {soma}."); */
+
 #endregion
 
 #region Exercício 2
@@ -102,6 +115,20 @@ Console.Write("Digite a quantidade de parcelas desejada: ");
 double parcelas = double.Parse(Console.ReadLine()!);
 double valorParcela = (valor / parcelas) + (valor * 0.05);
 Console.WriteLine($"O valor de cada parcela será de R$ {valorParcela}."); */
+
+//ou
+
+float valorProduto;
+double valorParcela, somaParcelas;
+//entrada de dados
+Console.Write("Digite o valor do produto: ");
+valorProduto = float.Parse(Console.ReadLine()!);
+Console.Write("Digite a quantidade de parcelas: ");
+somaParcelas = double.Parse(Console.ReadLine()!);
+//processamento
+valorParcela = (valorProduto / somaParcelas) + (valorProduto * 0.05);
+//saída de dados
+Console.WriteLine($"O valor de cada parcela será de R$ {valorParcela}.");
 
 #endregion
 
@@ -166,11 +193,47 @@ Console.WriteLine($"O valor final da compra é {valorFinal}."); */
 
 #region Exercício 9
 
-Console.Write("Digite seu nome: ");
+/* Console.Write("Digite seu nome: ");
 string nome = Console.ReadLine()!;
 Console.Write("Digite sua idade: ");
 int idade = int.Parse(Console.ReadLine()!);
-Console.WriteLine($"Olá {nome}, você tem {idade} anos.");
+Console.WriteLine($"Olá {nome}, você tem {idade} anos."); */
+
+#endregion
+
+#region Exercício 10
+
+/* Console.Write("Digite seu peso: ");
+int numeroInteiro = int.Parse(Console.ReadLine()!);
+Console.Write("Digite tamanho da roupa: ");
+char caractere = Console.ReadKey().KeyChar;
+Console.Write("\nDigite seu nome: ");
+string texto = Console.ReadLine()!;
+Console.WriteLine($"{texto} pesa {numeroInteiro}, e veste {caractere}"); */
+
+#endregion
+
+#region Exercício 11
+/* double n1, n2, n3, mediaPonderada;
+Console.Write("Digite o primeiro número: ");
+n1 = double.Parse(Console.ReadLine()!);
+Console.Write("Digite o segundo número: ");
+n2 = double.Parse(Console.ReadLine()!);
+Console.Write("Digite o terceiro número: ");
+n3 = double.Parse(Console.ReadLine()!);
+mediaPonderada = (n1 * 2 + n2 * 3 + n3 * 5) / (2 + 3 + 5);
+Console.WriteLine($"A média ponderada é {mediaPonderada.ToString("F2")}."); */
+
+#endregion
+
+#region Exercício 12
+
+/* float celsius, fahrenheit;
+Console.Write("Digite a temperatura em Celsius: ");
+celsius = float.Parse(Console.ReadLine()!);
+fahrenheit = celsius * 9f / 5f + 32;
+Console.WriteLine($"{celsius}°C equivalem a {fahrenheit}°F."); */
+
 
 #endregion
 
