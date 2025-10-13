@@ -118,7 +118,7 @@ Console.WriteLine($"O valor de cada parcela será de R$ {valorParcela}."); */
 
 //ou
 
-float valorProduto;
+/* float valorProduto;
 double valorParcela, somaParcelas;
 //entrada de dados
 Console.Write("Digite o valor do produto: ");
@@ -128,7 +128,7 @@ somaParcelas = double.Parse(Console.ReadLine()!);
 //processamento
 valorParcela = (valorProduto / somaParcelas) + (valorProduto * 0.05);
 //saída de dados
-Console.WriteLine($"O valor de cada parcela será de R$ {valorParcela}.");
+Console.WriteLine($"O valor de cada parcela será de R$ {valorParcela}."); */
 
 #endregion
 
@@ -239,3 +239,7 @@ Console.WriteLine($"{celsius}°C equivalem a {fahrenheit}°F."); */
 
 #endregion
 
+//Aula 05 - Avaliação
+#region Avaliação
+
+#endregion
