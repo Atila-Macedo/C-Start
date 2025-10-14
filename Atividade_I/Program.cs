@@ -77,15 +77,45 @@ Console.WriteLine($"O volume da esfera é {volume:F4}."); */
 
 #endregion
 
-#region Q5
+#region Q5✅
+
+/* float temperaturaF, temperaturaC;
+Console.Write("Digite a temperatura em °F: ");
+temperaturaF = float.Parse(Console.ReadLine()!);
+temperaturaC = (temperaturaF - 32) * 5 / 9;
+Console.WriteLine($"A temperatura em °C é {temperaturaC:F2}."); */
 
 #endregion
 
-#region Q6
+#region Q6✅
+
+/* double nota1, nota2, nota3, nota4, media, peso, mediaFinal;
+
+const int peso1 = 1, peso2 = 2, peso3 = 3, peso4 = 4;
+
+Console.Write("Digite a primeira nota: "); 
+nota1 = double.Parse(Console.ReadLine()!);
+Console.Write("Digite a segunda nota: ");
+nota2 = double.Parse(Console.ReadLine()!);
+Console.Write("Digite a terceira nota: ");
+nota3 = double.Parse(Console.ReadLine()!);
+Console.Write("Digite a quarta nota: ");
+nota4 = double.Parse(Console.ReadLine()!);
+media = (nota1 * peso1) + (nota2 * peso2) + (nota3 * peso3) + (nota4 * peso4);
+peso = peso1 + peso2 + peso3 + peso4;
+mediaFinal = media / peso;
+Console.WriteLine($"A média ponderada é {media:F2}."); */
 
 #endregion
 
-#region Q7
+#region Q7✅
+
+/* decimal reais, imposto, valorComImposto;
+Console.Write("Digite o valor em reais: ");
+reais = decimal.Parse(Console.ReadLine()!);
+imposto = reais * 0.07m;
+valorComImposto = reais + imposto;
+Console.WriteLine($"O valor do imposto é R$ {valorComImposto:F2}."); */
 
 #endregion
 
@@ -106,11 +136,27 @@ Console.WriteLine($"O valor convertido é {horas} horas, {minutos} minutos e {se
 
 #endregion
 
-#region Q9
+#region Q9✅
+
+/* double hipotenusa, catetoA, catetoB;
+Console.Write("Digite o valor do cateto A: ");
+catetoA = double.Parse(Console.ReadLine()!);
+Console.Write("Digite o valor do cateto B: ");
+catetoB = double.Parse(Console.ReadLine()!);
+hipotenusa = Math.Sqrt(Math.Pow(catetoA, 2) + Math.Pow(catetoB, 2));
+Console.WriteLine($"O valor da hipotenusa é {hipotenusa:F2}."); */
 
 #endregion
 
-#region Q10
+#region Q10✅
+
+/* float metros, tempo, Kmh;
+Console.Write("Digite a distância em metros: ");
+metros = float.Parse(Console.ReadLine()!);
+Console.Write("Digite o tempo em segundos: ");
+tempo = float.Parse(Console.ReadLine()!);
+Kmh = metros / 1000 / (tempo / 3600);
+Console.WriteLine($"A velocidade média é {Kmh:F2} km/h."); */
 
 #endregion
 
