@@ -161,3 +161,104 @@ Console.WriteLine($"A velocidade média é {Kmh:F2} km/h."); */
 #endregion
 
 #endregion
+
+
+
+
+#region Estruta
+
+#region Menus if/else
+
+/* char opcao;
+do
+{
+    Console.WriteLine("Menu de Opções:");
+    Console.WriteLine("1 - Opção 1");
+    Console.WriteLine("2 - Opção 2");
+    Console.WriteLine("3 - Sair");
+    Console.Write("Escolha uma opção: ");
+    opcao = Console.ReadKey().KeyChar;
+    Console.WriteLine();
+
+    if (opcao == '1')
+    {
+        Console.WriteLine("Você escolheu a Opção 1.");
+    }
+    else if (opcao == '2')
+    {
+        Console.WriteLine("Você escolheu a Opção 2.");
+    }
+    else if (opcao == '3')
+    {
+        Console.WriteLine("Saindo do programa...");
+    }
+    else
+    {
+        Console.WriteLine("Opção inválida. Tente novamente.");
+    }
+
+} while (opcao != '3'); */
+
+
+#endregion
+
+#region if/else 
+
+/* float temperatura;
+Console.Write("Digite a temperatura em °C: ");
+temperatura = float.Parse(Console.ReadLine()!);
+if (temperatura < 0)
+{
+    Console.WriteLine("A temperatura está negativa.");
+}
+else if (temperatura >= 0 && temperatura <= 30)
+{
+    Console.WriteLine("A temperatura está amena.");
+}
+else
+{
+    Console.WriteLine("A temperatura está alta.");
+} */
+
+
+
+#endregion
+
+#region terário
+
+/* string negativaoPositivo(int numero) => numero < 0 ? "Negativo" : numero > 0 ? "Positivo" : "Zero";
+
+Console.Write("Digite um número: ");
+int numero = int.Parse(Console.ReadLine()!);
+Console.WriteLine($"O número é {negativaoPositivo(numero)}."); */
+
+#endregion
+
+#region switch/case
+
+/* char menu; */
+/* do
+{ */
+/*     Console.WriteLine("Menu de Opções:");
+    Console.WriteLine("A - Produto Alimentício");
+    Console.WriteLine("B - Bebida");
+   
+ Console.WriteLine("C - Limpeza");
+    Console.WriteLine("D - Eletrônico");
+    Console.Write("Escolha uma opção: ");
+    menu = Char.ToUpper(Console.ReadKey().KeyChar);
+    Console.WriteLine();
+
+    switch (menu)
+    {
+        case 'A': Console.WriteLine("Você escolheu Produto Alimentício."); break;
+        case 'B': Console.WriteLine("Você escolheu Bebida."); break;
+        case 'C': Console.WriteLine("Você escolheu Limpeza."); break;
+        case 'D': Console.WriteLine("Você escolheu Eletrônico."); break;
+        default: Console.WriteLine("Categoria inválida."); break; */
+/* } while (menu != 'D');  */
+
+
+#endregion
+
+#endregion
