@@ -287,3 +287,92 @@ Console.WriteLine(resultado); */
 
 #endregion
 
+#region While
+/* int numero;
+Console.WriteLine("Digite um número positivo:");
+numero = int.Parse(Console.ReadLine());
+while (numero <= 0)
+{
+Console.WriteLine("Número inválido! Digite um número positivo:");
+numero = int.Parse(Console.ReadLine());
+}
+
+Console.WriteLine($"Você digitou o número positivo: {numero}"); */
+
+#endregion
+
+#region Do While
+
+/* char opcao;
+char continuar;
+
+do
+{
+    Console.WriteLine("----------------------------------");
+    Console.WriteLine("Escolha a opção");
+    Console.WriteLine("a) Somar");
+    Console.WriteLine("b) Subtrair");
+    Console.WriteLine("Opão: ");
+    opcao = Console.ReadKey().KeyChar;
+
+    switch (opcao)
+    {
+        case 'a': Console.WriteLine("Você escolheu somar."); break;
+        case 'b': Console.WriteLine("Você escolheu subtrair."); break;
+        default: Console.WriteLine("Opção inválida. Tente novamente."); break;
+    }
+    Console.WriteLine("----------------------------------");
+    Console.WriteLine("Você deseja continuar?\na) SIm \nb) Não");
+    continuar = Console.ReadKey().KeyChar;
+} while (continuar == 'a');
+     */
+
+#endregion
+
+
+
+#region Exercícios
+
+
+//for
+/* int numero;
+long fatorial = 1;
+Console.WriteLine("Digite um número inteiro positivo:");
+numero = int.Parse(Console.ReadLine()!);
+if (numero < 0)
+{
+    Console.WriteLine("Número inválido! Digite um número inteiro positivo.");
+}
+else
+{
+    for (int i = 1; i <= numero; i++)
+    {
+        fatorial *= i;
+    }
+    Console.WriteLine($"O fatorial de {numero} é: {fatorial}");
+} */
+
+
+//do while
+int numero;
+long fatorial;
+do
+{
+    Console.WriteLine("Digite um número inteiro positivo:");
+    numero = int.Parse(Console.ReadLine()!);
+    if (numero < 0)
+    {
+        Console.WriteLine("Número inválido! Digite um número inteiro positivo.");
+    }
+} while (numero < 0);
+
+fatorial = 1;
+int contador = 1;
+do
+{
+    fatorial *= contador;
+    contador++;
+} while (contador <= numero);
+
+Console.WriteLine($"O fatorial de {numero} é: {fatorial}");
+#endregion
