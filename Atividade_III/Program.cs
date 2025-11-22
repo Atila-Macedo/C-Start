@@ -62,7 +62,7 @@ Console.WriteLine($"A string contém {contadorVogais} vogais."); */
 
 #region Exercício 5
 
-Console.WriteLine("Digite um número inteiro positivo:");
+/* Console.WriteLine("Digite um número inteiro positivo:");
 int n = int.Parse(Console.ReadLine());
 for (int i = 1; i <= n; i++)
 {
@@ -71,6 +71,9 @@ for (int i = 1; i <= n; i++)
         Console.Write("*");
     }
     Console.WriteLine();
-}
+} */
 
 #endregion
+
+
+Console.Write($"I")
