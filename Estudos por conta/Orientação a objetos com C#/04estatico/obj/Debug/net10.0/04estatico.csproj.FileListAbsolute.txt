@@ -1,0 +1,15 @@
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\04estatico\bin\Debug\net10.0\04estatico.exe
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\04estatico\bin\Debug\net10.0\04estatico.deps.json
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\04estatico\bin\Debug\net10.0\04estatico.runtimeconfig.json
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\04estatico\bin\Debug\net10.0\04estatico.dll
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\04estatico\bin\Debug\net10.0\04estatico.pdb
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\04estatico\obj\Debug\net10.0\04estatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\04estatico\obj\Debug\net10.0\04estatico.AssemblyInfoInputs.cache
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\04estatico\obj\Debug\net10.0\04estatico.AssemblyInfo.cs
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\04estatico\obj\Debug\net10.0\04estatico.csproj.CoreCompileInputs.cache
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\04estatico\obj\Debug\net10.0\04estatico.sourcelink.json
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\04estatico\obj\Debug\net10.0\04estatico.dll
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\04estatico\obj\Debug\net10.0\refint\04estatico.dll
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\04estatico\obj\Debug\net10.0\04estatico.pdb
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\04estatico\obj\Debug\net10.0\04estatico.genruntimeconfig.cache
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\04estatico\obj\Debug\net10.0\ref\04estatico.dll

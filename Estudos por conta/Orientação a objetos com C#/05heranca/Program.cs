@@ -1,0 +1,1 @@
+﻿Colaborardor c = new("Átila", 25, "Desenvolvedor", 5000);

@@ -1,0 +1,15 @@
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\02encapsulamento\bin\Debug\net10.0\02encapsulamento.exe
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\02encapsulamento\bin\Debug\net10.0\02encapsulamento.deps.json
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\02encapsulamento\bin\Debug\net10.0\02encapsulamento.runtimeconfig.json
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\02encapsulamento\bin\Debug\net10.0\02encapsulamento.dll
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\02encapsulamento\bin\Debug\net10.0\02encapsulamento.pdb
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\02encapsulamento\obj\Debug\net10.0\02encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\02encapsulamento\obj\Debug\net10.0\02encapsulamento.AssemblyInfoInputs.cache
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\02encapsulamento\obj\Debug\net10.0\02encapsulamento.AssemblyInfo.cs
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\02encapsulamento\obj\Debug\net10.0\02encapsulamento.csproj.CoreCompileInputs.cache
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\02encapsulamento\obj\Debug\net10.0\02encapsulamento.sourcelink.json
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\02encapsulamento\obj\Debug\net10.0\02encapsulamento.dll
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\02encapsulamento\obj\Debug\net10.0\refint\02encapsulamento.dll
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\02encapsulamento\obj\Debug\net10.0\02encapsulamento.pdb
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\02encapsulamento\obj\Debug\net10.0\02encapsulamento.genruntimeconfig.cache
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\02encapsulamento\obj\Debug\net10.0\ref\02encapsulamento.dll

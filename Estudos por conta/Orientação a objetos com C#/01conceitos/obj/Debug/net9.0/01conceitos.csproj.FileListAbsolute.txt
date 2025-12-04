@@ -1,0 +1,15 @@
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\01conceitos\bin\Debug\net9.0\01conceitos.exe
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\01conceitos\bin\Debug\net9.0\01conceitos.deps.json
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\01conceitos\bin\Debug\net9.0\01conceitos.runtimeconfig.json
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\01conceitos\bin\Debug\net9.0\01conceitos.dll
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\01conceitos\bin\Debug\net9.0\01conceitos.pdb
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\01conceitos\obj\Debug\net9.0\01conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\01conceitos\obj\Debug\net9.0\01conceitos.AssemblyInfoInputs.cache
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\01conceitos\obj\Debug\net9.0\01conceitos.AssemblyInfo.cs
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\01conceitos\obj\Debug\net9.0\01conceitos.csproj.CoreCompileInputs.cache
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\01conceitos\obj\Debug\net9.0\01conceitos.sourcelink.json
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\01conceitos\obj\Debug\net9.0\01conceitos.dll
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\01conceitos\obj\Debug\net9.0\refint\01conceitos.dll
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\01conceitos\obj\Debug\net9.0\01conceitos.pdb
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\01conceitos\obj\Debug\net9.0\01conceitos.genruntimeconfig.cache
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\01conceitos\obj\Debug\net9.0\ref\01conceitos.dll

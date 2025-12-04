@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xyH5YpnqfJQ=",
+  "success": true,
+  "projectFilePath": "C:\\WorkSpace\\C-Start\\Estudos por conta\\Orientação a objetos com C#\\01conceitos\\01conceitos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\escri\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\escri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\escri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\escri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.11\\microsoft.netcore.app.host.win-x64.9.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

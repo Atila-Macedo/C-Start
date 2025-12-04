@@ -1,0 +1,15 @@
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\05heranca\bin\Debug\net10.0\05heranca.exe
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\05heranca\bin\Debug\net10.0\05heranca.deps.json
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\05heranca\bin\Debug\net10.0\05heranca.runtimeconfig.json
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\05heranca\bin\Debug\net10.0\05heranca.dll
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\05heranca\bin\Debug\net10.0\05heranca.pdb
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\05heranca\obj\Debug\net10.0\05heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\05heranca\obj\Debug\net10.0\05heranca.AssemblyInfoInputs.cache
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\05heranca\obj\Debug\net10.0\05heranca.AssemblyInfo.cs
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\05heranca\obj\Debug\net10.0\05heranca.csproj.CoreCompileInputs.cache
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\05heranca\obj\Debug\net10.0\05heranca.sourcelink.json
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\05heranca\obj\Debug\net10.0\05heranca.dll
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\05heranca\obj\Debug\net10.0\refint\05heranca.dll
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\05heranca\obj\Debug\net10.0\05heranca.pdb
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\05heranca\obj\Debug\net10.0\05heranca.genruntimeconfig.cache
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\05heranca\obj\Debug\net10.0\ref\05heranca.dll
