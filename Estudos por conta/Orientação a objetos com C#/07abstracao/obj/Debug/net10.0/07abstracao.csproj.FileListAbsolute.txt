@@ -1,0 +1,15 @@
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\07abstracao\bin\Debug\net10.0\07abstracao.exe
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\07abstracao\bin\Debug\net10.0\07abstracao.deps.json
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\07abstracao\bin\Debug\net10.0\07abstracao.runtimeconfig.json
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\07abstracao\bin\Debug\net10.0\07abstracao.dll
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\07abstracao\bin\Debug\net10.0\07abstracao.pdb
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\07abstracao\obj\Debug\net10.0\07abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\07abstracao\obj\Debug\net10.0\07abstracao.AssemblyInfoInputs.cache
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\07abstracao\obj\Debug\net10.0\07abstracao.AssemblyInfo.cs
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\07abstracao\obj\Debug\net10.0\07abstracao.csproj.CoreCompileInputs.cache
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\07abstracao\obj\Debug\net10.0\07abstracao.sourcelink.json
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\07abstracao\obj\Debug\net10.0\07abstracao.dll
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\07abstracao\obj\Debug\net10.0\refint\07abstracao.dll
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\07abstracao\obj\Debug\net10.0\07abstracao.pdb
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\07abstracao\obj\Debug\net10.0\07abstracao.genruntimeconfig.cache
+C:\WorkSpace\C-Start\Estudos por conta\Orientação a objetos com C#\07abstracao\obj\Debug\net10.0\ref\07abstracao.dll
